@@ -34,3 +34,9 @@ p {
   color: white;
   background-color: dimgray;
 }
+
+.menu {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+}
